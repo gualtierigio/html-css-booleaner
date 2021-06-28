@@ -62,7 +62,7 @@ footer h2{
 /* Tabella rules */
 
 thead{
-    background-color: rgb(99, 99, 243);
+    background-color: rgb(67, 67, 241);
 }
 
 table{
@@ -71,4 +71,8 @@ table{
 
 .regular{
     width: 25%;
+}
+
+.background-table{
+    background-color: lightblue;
 }
