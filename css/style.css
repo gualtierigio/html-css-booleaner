@@ -6,9 +6,23 @@ body{
 .header-container{
     background-color: lightblue;
     height: 150px;
+    width: 100%;
+    background-image: url(../img/pattern.png);
 }
 
-#background-title{
-    background-size: contain;
+header img{
+    width: 20%;
+    margin-top: 80px;
+    margin-left: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: lightblue;
+    font-weight: bold;
+}
+
+header p{
+    color: rgba(0, 0, 0, 0.5);
 }
 
