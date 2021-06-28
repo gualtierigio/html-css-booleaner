@@ -23,7 +23,7 @@ a{
     font-weight: bold;
 }
 
-header p{
+.opaco{
     color: rgba(0, 0, 0, 0.5);
 }
 
@@ -35,3 +35,26 @@ p span{
     background-color: yellow;
 }
 
+footer div{
+    width: 250px;
+    height: 200px;
+    margin-bottom: 15px;
+    padding-left: 10px;
+}
+
+.monitor{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#scrivania{
+    background-image: url(../img/monitor.jpg);
+}
+
+#graph{
+    background-image: url(../img/graph.jpg);
+}
+
+footer h2{
+    color: white;
+}
