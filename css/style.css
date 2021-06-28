@@ -58,3 +58,15 @@ footer div{
 footer h2{
     color: white;
 }
+
+th{
+    background-color: blue;
+}
+
+.background-table{
+    background-color: lightblue;
+}
+
+table, th, td{
+    border: 1px solid black;
+}
