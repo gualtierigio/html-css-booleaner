@@ -1,7 +1,10 @@
 body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+main{
     width: 80%;
     margin: auto;
-    font-family: 'Source Sans Pro', sans-serif;
 }
 
 .header-container{
@@ -29,6 +32,10 @@ a{
 
 .small-text{
     font-size: 10px;
+}
+
+footer div{
+    padding: 10px;
 }
 
 p span{
@@ -68,6 +75,7 @@ thead{
 
 table{
     width: 100%;
+    border-collapse: collapse;
 }
 
 .regular{
